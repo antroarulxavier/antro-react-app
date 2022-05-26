@@ -1,6 +1,6 @@
 {
   "name": "antro-react-app",
-  "homepage": "https://github.com/antroarulxavier/antro-react-app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
